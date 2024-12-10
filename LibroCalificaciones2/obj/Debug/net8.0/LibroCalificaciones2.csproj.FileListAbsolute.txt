@@ -1,0 +1,14 @@
+C:\Users\Mario\Desktop\Proyectos\LibroCalificaciones2\obj\Debug\net8.0\LibroCalificaciones2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Desktop\Proyectos\LibroCalificaciones2\obj\Debug\net8.0\LibroCalificaciones2.AssemblyInfoInputs.cache
+C:\Users\Mario\Desktop\Proyectos\LibroCalificaciones2\obj\Debug\net8.0\LibroCalificaciones2.AssemblyInfo.cs
+C:\Users\Mario\Desktop\Proyectos\LibroCalificaciones2\obj\Debug\net8.0\LibroCalificaciones2.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Proyectos\LibroCalificaciones2\bin\Debug\net8.0\LibroCalificaciones2.exe
+C:\Users\Mario\Desktop\Proyectos\LibroCalificaciones2\bin\Debug\net8.0\LibroCalificaciones2.deps.json
+C:\Users\Mario\Desktop\Proyectos\LibroCalificaciones2\bin\Debug\net8.0\LibroCalificaciones2.runtimeconfig.json
+C:\Users\Mario\Desktop\Proyectos\LibroCalificaciones2\bin\Debug\net8.0\LibroCalificaciones2.dll
+C:\Users\Mario\Desktop\Proyectos\LibroCalificaciones2\bin\Debug\net8.0\LibroCalificaciones2.pdb
+C:\Users\Mario\Desktop\Proyectos\LibroCalificaciones2\obj\Debug\net8.0\LibroCalificaciones2.dll
+C:\Users\Mario\Desktop\Proyectos\LibroCalificaciones2\obj\Debug\net8.0\refint\LibroCalificaciones2.dll
+C:\Users\Mario\Desktop\Proyectos\LibroCalificaciones2\obj\Debug\net8.0\LibroCalificaciones2.pdb
+C:\Users\Mario\Desktop\Proyectos\LibroCalificaciones2\obj\Debug\net8.0\LibroCalificaciones2.genruntimeconfig.cache
+C:\Users\Mario\Desktop\Proyectos\LibroCalificaciones2\obj\Debug\net8.0\ref\LibroCalificaciones2.dll

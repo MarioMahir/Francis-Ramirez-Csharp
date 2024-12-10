@@ -1,0 +1,14 @@
+C:\Users\Mario\Desktop\Proyectos\BarajarCartas\obj\Debug\net8.0\BarajarCartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Desktop\Proyectos\BarajarCartas\obj\Debug\net8.0\BarajarCartas.AssemblyInfoInputs.cache
+C:\Users\Mario\Desktop\Proyectos\BarajarCartas\obj\Debug\net8.0\BarajarCartas.AssemblyInfo.cs
+C:\Users\Mario\Desktop\Proyectos\BarajarCartas\obj\Debug\net8.0\BarajarCartas.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Proyectos\BarajarCartas\bin\Debug\net8.0\BarajarCartas.exe
+C:\Users\Mario\Desktop\Proyectos\BarajarCartas\bin\Debug\net8.0\BarajarCartas.deps.json
+C:\Users\Mario\Desktop\Proyectos\BarajarCartas\bin\Debug\net8.0\BarajarCartas.runtimeconfig.json
+C:\Users\Mario\Desktop\Proyectos\BarajarCartas\bin\Debug\net8.0\BarajarCartas.dll
+C:\Users\Mario\Desktop\Proyectos\BarajarCartas\bin\Debug\net8.0\BarajarCartas.pdb
+C:\Users\Mario\Desktop\Proyectos\BarajarCartas\obj\Debug\net8.0\BarajarCartas.dll
+C:\Users\Mario\Desktop\Proyectos\BarajarCartas\obj\Debug\net8.0\refint\BarajarCartas.dll
+C:\Users\Mario\Desktop\Proyectos\BarajarCartas\obj\Debug\net8.0\BarajarCartas.pdb
+C:\Users\Mario\Desktop\Proyectos\BarajarCartas\obj\Debug\net8.0\BarajarCartas.genruntimeconfig.cache
+C:\Users\Mario\Desktop\Proyectos\BarajarCartas\obj\Debug\net8.0\ref\BarajarCartas.dll

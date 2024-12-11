@@ -1,0 +1,14 @@
+C:\Users\mario\Downloads\Arreglos\clases2\bin\Debug\net9.0\Clases2.exe
+C:\Users\mario\Downloads\Arreglos\clases2\bin\Debug\net9.0\Clases2.deps.json
+C:\Users\mario\Downloads\Arreglos\clases2\bin\Debug\net9.0\Clases2.runtimeconfig.json
+C:\Users\mario\Downloads\Arreglos\clases2\bin\Debug\net9.0\Clases2.dll
+C:\Users\mario\Downloads\Arreglos\clases2\bin\Debug\net9.0\Clases2.pdb
+C:\Users\mario\Downloads\Arreglos\clases2\obj\Debug\net9.0\Clases2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\Downloads\Arreglos\clases2\obj\Debug\net9.0\Clases2.AssemblyInfoInputs.cache
+C:\Users\mario\Downloads\Arreglos\clases2\obj\Debug\net9.0\Clases2.AssemblyInfo.cs
+C:\Users\mario\Downloads\Arreglos\clases2\obj\Debug\net9.0\Clases2.csproj.CoreCompileInputs.cache
+C:\Users\mario\Downloads\Arreglos\clases2\obj\Debug\net9.0\Clases2.dll
+C:\Users\mario\Downloads\Arreglos\clases2\obj\Debug\net9.0\refint\Clases2.dll
+C:\Users\mario\Downloads\Arreglos\clases2\obj\Debug\net9.0\Clases2.pdb
+C:\Users\mario\Downloads\Arreglos\clases2\obj\Debug\net9.0\Clases2.genruntimeconfig.cache
+C:\Users\mario\Downloads\Arreglos\clases2\obj\Debug\net9.0\ref\Clases2.dll

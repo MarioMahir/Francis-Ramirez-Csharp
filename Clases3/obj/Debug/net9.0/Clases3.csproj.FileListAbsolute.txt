@@ -1,0 +1,14 @@
+C:\Users\mario\Downloads\Arreglos\Clases3\bin\Debug\net9.0\Clases3.exe
+C:\Users\mario\Downloads\Arreglos\Clases3\bin\Debug\net9.0\Clases3.deps.json
+C:\Users\mario\Downloads\Arreglos\Clases3\bin\Debug\net9.0\Clases3.runtimeconfig.json
+C:\Users\mario\Downloads\Arreglos\Clases3\bin\Debug\net9.0\Clases3.dll
+C:\Users\mario\Downloads\Arreglos\Clases3\bin\Debug\net9.0\Clases3.pdb
+C:\Users\mario\Downloads\Arreglos\Clases3\obj\Debug\net9.0\Clases3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\Downloads\Arreglos\Clases3\obj\Debug\net9.0\Clases3.AssemblyInfoInputs.cache
+C:\Users\mario\Downloads\Arreglos\Clases3\obj\Debug\net9.0\Clases3.AssemblyInfo.cs
+C:\Users\mario\Downloads\Arreglos\Clases3\obj\Debug\net9.0\Clases3.csproj.CoreCompileInputs.cache
+C:\Users\mario\Downloads\Arreglos\Clases3\obj\Debug\net9.0\Clases3.dll
+C:\Users\mario\Downloads\Arreglos\Clases3\obj\Debug\net9.0\refint\Clases3.dll
+C:\Users\mario\Downloads\Arreglos\Clases3\obj\Debug\net9.0\Clases3.pdb
+C:\Users\mario\Downloads\Arreglos\Clases3\obj\Debug\net9.0\Clases3.genruntimeconfig.cache
+C:\Users\mario\Downloads\Arreglos\Clases3\obj\Debug\net9.0\ref\Clases3.dll

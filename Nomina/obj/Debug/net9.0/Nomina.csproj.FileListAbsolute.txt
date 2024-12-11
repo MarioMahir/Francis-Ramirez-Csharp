@@ -1,0 +1,14 @@
+C:\Users\mario\Downloads\Arreglos\Nomina\obj\Debug\net9.0\Nomina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\Downloads\Arreglos\Nomina\obj\Debug\net9.0\Nomina.AssemblyInfoInputs.cache
+C:\Users\mario\Downloads\Arreglos\Nomina\obj\Debug\net9.0\Nomina.AssemblyInfo.cs
+C:\Users\mario\Downloads\Arreglos\Nomina\obj\Debug\net9.0\Nomina.csproj.CoreCompileInputs.cache
+C:\Users\mario\Downloads\Arreglos\Nomina\bin\Debug\net9.0\Nomina.exe
+C:\Users\mario\Downloads\Arreglos\Nomina\bin\Debug\net9.0\Nomina.deps.json
+C:\Users\mario\Downloads\Arreglos\Nomina\bin\Debug\net9.0\Nomina.runtimeconfig.json
+C:\Users\mario\Downloads\Arreglos\Nomina\bin\Debug\net9.0\Nomina.dll
+C:\Users\mario\Downloads\Arreglos\Nomina\bin\Debug\net9.0\Nomina.pdb
+C:\Users\mario\Downloads\Arreglos\Nomina\obj\Debug\net9.0\Nomina.dll
+C:\Users\mario\Downloads\Arreglos\Nomina\obj\Debug\net9.0\refint\Nomina.dll
+C:\Users\mario\Downloads\Arreglos\Nomina\obj\Debug\net9.0\Nomina.pdb
+C:\Users\mario\Downloads\Arreglos\Nomina\obj\Debug\net9.0\Nomina.genruntimeconfig.cache
+C:\Users\mario\Downloads\Arreglos\Nomina\obj\Debug\net9.0\ref\Nomina.dll

@@ -1,0 +1,14 @@
+C:\Users\mario\Downloads\Arreglos\LibroCalificacionesClase\obj\Debug\net9.0\LibroCalificacionesClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\Downloads\Arreglos\LibroCalificacionesClase\obj\Debug\net9.0\LibroCalificacionesClase.AssemblyInfoInputs.cache
+C:\Users\mario\Downloads\Arreglos\LibroCalificacionesClase\obj\Debug\net9.0\LibroCalificacionesClase.AssemblyInfo.cs
+C:\Users\mario\Downloads\Arreglos\LibroCalificacionesClase\obj\Debug\net9.0\LibroCalificacionesClase.csproj.CoreCompileInputs.cache
+C:\Users\mario\Downloads\Arreglos\LibroCalificacionesClase\bin\Debug\net9.0\LibroCalificacionesClase.exe
+C:\Users\mario\Downloads\Arreglos\LibroCalificacionesClase\bin\Debug\net9.0\LibroCalificacionesClase.deps.json
+C:\Users\mario\Downloads\Arreglos\LibroCalificacionesClase\bin\Debug\net9.0\LibroCalificacionesClase.runtimeconfig.json
+C:\Users\mario\Downloads\Arreglos\LibroCalificacionesClase\bin\Debug\net9.0\LibroCalificacionesClase.dll
+C:\Users\mario\Downloads\Arreglos\LibroCalificacionesClase\bin\Debug\net9.0\LibroCalificacionesClase.pdb
+C:\Users\mario\Downloads\Arreglos\LibroCalificacionesClase\obj\Debug\net9.0\LibroCalificacionesClase.dll
+C:\Users\mario\Downloads\Arreglos\LibroCalificacionesClase\obj\Debug\net9.0\refint\LibroCalificacionesClase.dll
+C:\Users\mario\Downloads\Arreglos\LibroCalificacionesClase\obj\Debug\net9.0\LibroCalificacionesClase.pdb
+C:\Users\mario\Downloads\Arreglos\LibroCalificacionesClase\obj\Debug\net9.0\LibroCalificacionesClase.genruntimeconfig.cache
+C:\Users\mario\Downloads\Arreglos\LibroCalificacionesClase\obj\Debug\net9.0\ref\LibroCalificacionesClase.dll

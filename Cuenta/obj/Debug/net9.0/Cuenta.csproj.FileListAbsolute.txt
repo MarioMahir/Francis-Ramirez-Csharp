@@ -1,0 +1,14 @@
+C:\Users\mario\Downloads\Arreglos\Cuenta\bin\Debug\net9.0\Cuenta.exe
+C:\Users\mario\Downloads\Arreglos\Cuenta\bin\Debug\net9.0\Cuenta.deps.json
+C:\Users\mario\Downloads\Arreglos\Cuenta\bin\Debug\net9.0\Cuenta.runtimeconfig.json
+C:\Users\mario\Downloads\Arreglos\Cuenta\bin\Debug\net9.0\Cuenta.dll
+C:\Users\mario\Downloads\Arreglos\Cuenta\bin\Debug\net9.0\Cuenta.pdb
+C:\Users\mario\Downloads\Arreglos\Cuenta\obj\Debug\net9.0\Cuenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\Downloads\Arreglos\Cuenta\obj\Debug\net9.0\Cuenta.AssemblyInfoInputs.cache
+C:\Users\mario\Downloads\Arreglos\Cuenta\obj\Debug\net9.0\Cuenta.AssemblyInfo.cs
+C:\Users\mario\Downloads\Arreglos\Cuenta\obj\Debug\net9.0\Cuenta.csproj.CoreCompileInputs.cache
+C:\Users\mario\Downloads\Arreglos\Cuenta\obj\Debug\net9.0\Cuenta.dll
+C:\Users\mario\Downloads\Arreglos\Cuenta\obj\Debug\net9.0\refint\Cuenta.dll
+C:\Users\mario\Downloads\Arreglos\Cuenta\obj\Debug\net9.0\Cuenta.pdb
+C:\Users\mario\Downloads\Arreglos\Cuenta\obj\Debug\net9.0\Cuenta.genruntimeconfig.cache
+C:\Users\mario\Downloads\Arreglos\Cuenta\obj\Debug\net9.0\ref\Cuenta.dll
